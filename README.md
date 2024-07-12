@@ -48,3 +48,16 @@ Implemented in Python using TensorFlow and Keras, the project includes:
 **Model Evaluation:** Assessing accuracy, precision, recall, and F1-score.
 
 **Model Deployment:** User-friendly interface for medical professionals to upload and analyze images.
+
+# Output
+![output_image](https://github.com/user-attachments/assets/c3a51f9d-4515-4a1e-8d0b-a994d5414cf3)
+
+# Cancerous
+![cancerous](https://github.com/user-attachments/assets/12f6c841-969d-4f7c-b75b-a899e711afe9)
+
+
+# Non Cancerous
+
+![non_cancerous](https://github.com/user-attachments/assets/1465e640-9b4f-4310-b511-1bea03dbb8a4)
+
+
