@@ -39,7 +39,7 @@ Utilizes a CNN consisting of:
 
 **Implementation:**
 
-Implemented in Python using TensorFlow and Keras, the project includes:
+
 
 **Data Preprocessing:** Normalization and augmentation for enhanced model generalization.
 
